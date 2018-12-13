@@ -1,3 +1,7 @@
+## Note
+Small adjustement created on this fork so that Component can be used as general pan&zoom even for child element that is not an image, eg. views, scrollviews etc.
+
+
 ## Show Cases
 
 > Zoom while sliding
