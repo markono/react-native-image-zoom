@@ -1,3 +1,7 @@
+## Note
+Small adjustement created on this fork so that the Component can be used on views, scrollviews etc.
+
+
 ## Show Cases
 
 > Zoom while sliding
