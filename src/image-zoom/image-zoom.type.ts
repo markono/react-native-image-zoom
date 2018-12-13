@@ -44,6 +44,11 @@ export class Props {
   public imageHeight: number = 100;
 
   /**
+   * Enable / disable PanResponder
+   */
+  public enablePanResponder: boolean = true;
+
+  /**
    * 单手是否能移动图片
    */
   public panToMove?: boolean = true;
