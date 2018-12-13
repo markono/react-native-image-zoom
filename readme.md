@@ -1,5 +1,5 @@
 ## Note
-Small adjustement created on this fork so that Component can be used as general pan&zoom even for child element that is not an image, eg. views, scrollviews etc.
+Small adjustement created on this fork so that the Component can be used on views, scrollviews etc.
 
 
 ## Show Cases
